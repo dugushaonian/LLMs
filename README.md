@@ -13,7 +13,6 @@ LLM papers
 |Scientific Large Language Models: A Survey on Biological & Chemical Domains|[arxiv](https://arxiv.org/abs/2401.14656)|[githup](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)|--|
 |Data Management For Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2312.01700)|[githup](https://github.com/ZigeW/data_management_LLM)|--|
 |If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents|[arxiv](https://arxiv.org/abs/2401.00812)|--|--|
-|Data Management For Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2312.01700)|[githup](https://github.com/ZigeW/data_management_LLM)|--|
 |Large Language Models on Graphs: A Comprehensive Survey|[arxiv](https://arxiv.org/abs/2312.02783)|[gitcode](https://gitcode.com/petergriffinjin/awesome-language-model-on-graphs/overview?utm_source=csdn_github_accelerator&isLogin=1)|--|
 |A Survey on Hardware Accelerators for Large Language Models|[arxiv](https://arxiv.org/abs/2401.09890)|--|--|
 
