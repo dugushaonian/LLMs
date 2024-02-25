@@ -7,3 +7,4 @@ LLM papers
 |--|--|--|
 |A Survey of Large Language Models|[arxiv](https://arxiv.org/abs/2303.18223)|[github](https://github.com/RUCAIBox/LLMSurvey)|
 |A Survey on Multimodal Large Language Models|[arxiv](https://arxiv.org/abs/2306.13549)|[github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)|
+|The (R)Evolution of Multimodal Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2402.12451)|--|
