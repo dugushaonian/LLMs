@@ -18,6 +18,8 @@ LLM papers
 |A Survey on Multimodal Large Language Models for Autonomous Driving|[arxiv](https://arxiv.org/abs/2311.12320)|--|--|
 |A Survey on Evaluation of Large Language Models|[arxiv](https://arxiv.org/abs/2307.03109)|--|[链接](https://zhuanlan.zhihu.com/p/643086466)|
 |Efficient Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2312.03863)|[github](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|[链接](https://mp.weixin.qq.com/s/_CS5qcCO_86AMoj0GnmmUw)|
+|Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey|[arxiv](https://arxiv.org/abs/2311.12351)|[github](https://github.com/Strivin0311/long-llms-learning)|[链接](https://mp.weixin.qq.com/s/VrV3E_SKTbpjJBfFyirvhA)|
+|The Rise and Potential of Large Language Model Based Agents: A Survey|[arxiv](https://arxiv.org/abs/2309.07864)|--|[链接](https://mp.weixin.qq.com/s/BiW86exdIr7yuy7cdaFbPQ)|
 
 ## 最新论文
 
