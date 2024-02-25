@@ -10,10 +10,22 @@ LLM papers
 |The (R)Evolution of Multimodal Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2402.12451)|--|--|
 |Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2402.06196)|--|[链接](https://zhuanlan.zhihu.com/p/683133002)|
 |Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey|[arxiv](https://arxiv.org/abs/2305.18703)|--|--|
-|Scientific Large Language Models: A Survey on Biological & Chemical Domains|[arxiv](https://arxiv.org/abs/2401.14656)|[githup](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)|[链接]()|
+|Scientific Large Language Models: A Survey on Biological & Chemical Domains|[arxiv](https://arxiv.org/abs/2401.14656)|[githup](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)|--|
+|Data Management For Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2312.01700)|[githup](https://github.com/ZigeW/data_management_LLM)|--|
+|If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents|[arxiv](https://arxiv.org/abs/2401.00812)|--|--|
+|Data Management For Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2312.01700)|[githup](https://github.com/ZigeW/data_management_LLM)|--|
+|Large Language Models on Graphs: A Comprehensive Survey|[arxiv](https://arxiv.org/abs/2312.02783)|[gitcode](https://gitcode.com/petergriffinjin/awesome-language-model-on-graphs/overview?utm_source=csdn_github_accelerator&isLogin=1)|--|
+|A Survey on Hardware Accelerators for Large Language Models|[arxiv](https://arxiv.org/abs/2401.09890)|--|--|
+
 
 ## 博客文章
 
 |文章|地址|
 |--|--|
 |大语言模型的前世今生|[链接](https://bbs.huaweicloud.com/blogs/416109?utm_source=zhihu&utm_medium=bbs-ex&utm_campaign=other&utm_content=content)|
+
+## 项目链接
+
+|项目|地址|
+|--|--|
+|LLM-Agents-Papers|[github](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)|
