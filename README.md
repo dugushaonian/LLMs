@@ -82,6 +82,7 @@ LLM papers
 |Scientific-LLM-Survey|[github](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)|
 |data_management_LLM|[github](https://github.com/ZigeW/data_management_LLM)|
 |Efficient-LLMs-Survey|[github](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|
+|peft|[github](https://github.com/huggingface/peft)|
 
 ## 博客文章
 
