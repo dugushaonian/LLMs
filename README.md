@@ -31,3 +31,7 @@ LLM papers
 |--|--|
 |LLM-Agents-Papers|[github](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)|
 |LLM-eval-survey|[github](https://github.com/MLGroupJLU/LLM-eval-survey)|
+|LLMSurvey|[github](https://github.com/RUCAIBox/LLMSurvey)|
+|Awesome-Multimodal-Large-Language-Models|[github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)|
+|Scientific-LLM-Survey|[github](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)|
+|data_management_LLM|[github](https://github.com/ZigeW/data_management_LLM)|
