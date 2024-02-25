@@ -17,7 +17,7 @@ LLM papers
 |A Survey on Hardware Accelerators for Large Language Models|[arxiv](https://arxiv.org/abs/2401.09890)|--|--|
 |A Survey on Multimodal Large Language Models for Autonomous Driving|[arxiv](https://arxiv.org/abs/2311.12320)|--|--|
 |A Survey on Evaluation of Large Language Models|[arxiv](https://arxiv.org/abs/2307.03109)|--|[链接](https://zhuanlan.zhihu.com/p/643086466)|
-|https://arxiv.org/abs/2312.03863|[arxiv](https://arxiv.org/abs/2312.03863)|[github](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|[链接](https://mp.weixin.qq.com/s/_CS5qcCO_86AMoj0GnmmUw)|
+|Efficient Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2312.03863)|[github](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|[链接](https://mp.weixin.qq.com/s/_CS5qcCO_86AMoj0GnmmUw)|
 
 ## 项目链接
 
