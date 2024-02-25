@@ -18,13 +18,6 @@ LLM papers
 |A Survey on Multimodal Large Language Models for Autonomous Driving|[arxiv](https://arxiv.org/abs/2311.12320)|--|--|
 |A Survey on Evaluation of Large Language Models|[arxiv](https://arxiv.org/abs/2307.03109)|--|[链接](https://zhuanlan.zhihu.com/p/643086466)|
 
-
-## 博客文章
-
-|文章|地址|
-|--|--|
-|大语言模型的前世今生|[链接](https://bbs.huaweicloud.com/blogs/416109?utm_source=zhihu&utm_medium=bbs-ex&utm_campaign=other&utm_content=content)|
-
 ## 项目链接
 
 |项目|地址|
@@ -35,3 +28,9 @@ LLM papers
 |Awesome-Multimodal-Large-Language-Models|[github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)|
 |Scientific-LLM-Survey|[github](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)|
 |data_management_LLM|[github](https://github.com/ZigeW/data_management_LLM)|
+
+## 博客文章
+
+|文章|地址|
+|--|--|
+|大语言模型的前世今生|[链接](https://bbs.huaweicloud.com/blogs/416109?utm_source=zhihu&utm_medium=bbs-ex&utm_campaign=other&utm_content=content)|
