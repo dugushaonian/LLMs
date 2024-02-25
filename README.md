@@ -15,6 +15,8 @@ LLM papers
 |If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents|[arxiv](https://arxiv.org/abs/2401.00812)|--|--|
 |Large Language Models on Graphs: A Comprehensive Survey|[arxiv](https://arxiv.org/abs/2312.02783)|[gitcode](https://gitcode.com/petergriffinjin/awesome-language-model-on-graphs/overview?utm_source=csdn_github_accelerator&isLogin=1)|--|
 |A Survey on Hardware Accelerators for Large Language Models|[arxiv](https://arxiv.org/abs/2401.09890)|--|--|
+|A Survey on Multimodal Large Language Models for Autonomous Driving|[arxiv](https://arxiv.org/abs/2311.12320)|--|--|
+|A Survey on Evaluation of Large Language Models|[arxiv](https://arxiv.org/abs/2307.03109)|--|[链接](https://zhuanlan.zhihu.com/p/643086466)|
 
 
 ## 博客文章
@@ -28,3 +30,4 @@ LLM papers
 |项目|地址|
 |--|--|
 |LLM-Agents-Papers|[github](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)|
+|LLM-eval-survey|[github](https://github.com/MLGroupJLU/LLM-eval-survey)|
