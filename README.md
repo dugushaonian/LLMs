@@ -17,4 +17,4 @@ LLM papers
 
 |文章|地址|
 |--|--|
-|大语言模型的前世今生|(链接](https://bbs.huaweicloud.com/blogs/416109?utm_source=zhihu&utm_medium=bbs-ex&utm_campaign=other&utm_content=content)|
+|大语言模型的前世今生|[链接](https://bbs.huaweicloud.com/blogs/416109?utm_source=zhihu&utm_medium=bbs-ex&utm_campaign=other&utm_content=content)|
