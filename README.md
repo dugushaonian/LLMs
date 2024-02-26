@@ -20,6 +20,7 @@ LLM papers
 |Efficient Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2312.03863)|[github](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|[链接](https://mp.weixin.qq.com/s/_CS5qcCO_86AMoj0GnmmUw)|
 |Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey|[arxiv](https://arxiv.org/abs/2311.12351)|[github](https://github.com/Strivin0311/long-llms-learning)|[链接](https://mp.weixin.qq.com/s/VrV3E_SKTbpjJBfFyirvhA)|
 |The Rise and Potential of Large Language Model Based Agents: A Survey|[arxiv](https://arxiv.org/abs/2309.07864)|--|[链接](https://mp.weixin.qq.com/s/BiW86exdIr7yuy7cdaFbPQ)|
+|A Survey on Knowledge Distillation of Large Language Models|[arxiv](https://arxiv.org/abs/2402.13116)|[github](https://mp.weixin.qq.com/s/schQHpNXk1PgFoQ1myac8Q)|[链接](https://mp.weixin.qq.com/s/schQHpNXk1PgFoQ1myac8Q)|
 
 
 ## 最新论文
@@ -87,6 +88,7 @@ LLM papers
 |Efficient-LLMs-Survey|[github](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|
 |peft|[github](https://github.com/huggingface/peft)|
 |awesome-llm-list|[github](https://github.com/Barnacle-ai/awesome-llm-list)|
+|Awesome-Knowledge-Distillation-of-LLMs|[github](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs)|
 
 ## 博客文章
 
