@@ -91,6 +91,7 @@ LLM papers
 |Awesome-Knowledge-Distillation-of-LLMs|[github](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs)|
 |Awesome-AGI|[github](https://github.com/ArronAI007/Awesome-AGI)|
 |awesome-llm-time-series|[github](https://github.com/xiyuanzh/awesome-llm-time-series)|
+|awesome-generative-ai-guide|[github](https://github.com/aishwaryanr/awesome-generative-ai-guide)|
 
 ## 博客文章
 
