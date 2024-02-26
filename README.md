@@ -89,6 +89,7 @@ LLM papers
 |peft|[github](https://github.com/huggingface/peft)|
 |awesome-llm-list|[github](https://github.com/Barnacle-ai/awesome-llm-list)|
 |Awesome-Knowledge-Distillation-of-LLMs|[github](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs)|
+|Awesome-AGI|[github](https://github.com/ArronAI007/Awesome-AGI)|
 
 ## 博客文章
 
