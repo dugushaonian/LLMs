@@ -86,6 +86,7 @@ LLM papers
 |data_management_LLM|[github](https://github.com/ZigeW/data_management_LLM)|
 |Efficient-LLMs-Survey|[github](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|
 |peft|[github](https://github.com/huggingface/peft)|
+|awesome-llm-list|[github](https://github.com/Barnacle-ai/awesome-llm-list)|
 
 ## 博客文章
 
