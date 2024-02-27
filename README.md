@@ -23,7 +23,7 @@ LLM papers
 |A Survey on Knowledge Distillation of Large Language Models|[arxiv](https://arxiv.org/abs/2402.13116)|[github](https://mp.weixin.qq.com/s/schQHpNXk1PgFoQ1myac8Q)|[链接](https://mp.weixin.qq.com/s/schQHpNXk1PgFoQ1myac8Q)|
 |Large Language Models for Time Series: A Survey|[arxiv](https://arxiv.org/abs/2402.01801)|[github](https://github.com/xiyuanzh/awesome-llm-time-series)|[链接](https://mp.weixin.qq.com/s/xXgez0eCmlHC3KuD1BynCw)|
 |MM-LLMs: Recent Advances in MultiModal Large Language Models|[arxiv](https://arxiv.org/abs/2401.13601)|[github](https://mm-llms.github.io)|[链接](https://mp.weixin.qq.com/s/eC5qSI7QCIJoLOscpNB5fQ)|
-
+|Continual Learning for Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2402.01364)||[链接](https://mp.weixin.qq.com/s/aTriLi-h-rfC6hTRoj7SwA)|
 ## 最新论文
 
 |论文|地址|
