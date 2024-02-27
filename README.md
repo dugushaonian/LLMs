@@ -99,3 +99,5 @@ LLM papers
 |文章|地址|
 |--|--|
 |大语言模型的前世今生|[链接](https://bbs.huaweicloud.com/blogs/416109?utm_source=zhihu&utm_medium=bbs-ex&utm_campaign=other&utm_content=content)|
+|万字长文聊聊LLM Agents的现状，问题与未来|[链接](https://mp.weixin.qq.com/s/BiW86exdIr7yuy7cdaFbPQ)|
+
