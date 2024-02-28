@@ -20,7 +20,7 @@ LLM papers
 |Efficient Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2312.03863)|[github](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|[链接](https://mp.weixin.qq.com/s/_CS5qcCO_86AMoj0GnmmUw)|
 |Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey|[arxiv](https://arxiv.org/abs/2311.12351)|[github](https://github.com/Strivin0311/long-llms-learning)|[链接](https://mp.weixin.qq.com/s/VrV3E_SKTbpjJBfFyirvhA)|
 |The Rise and Potential of Large Language Model Based Agents: A Survey|[arxiv](https://arxiv.org/abs/2309.07864)|--|[链接](https://mp.weixin.qq.com/s/BiW86exdIr7yuy7cdaFbPQ)|
-|A Survey on Knowledge Distillation of Large Language Models|[arxiv](https://arxiv.org/abs/2402.13116)|[github](https://mp.weixin.qq.com/s/schQHpNXk1PgFoQ1myac8Q)|[链接](https://mp.weixin.qq.com/s/schQHpNXk1PgFoQ1myac8Q)|
+|A Survey on Knowledge Distillation of Large Language Models|[arxiv](https://arxiv.org/abs/2402.13116)|[github](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs)|[链接](https://mp.weixin.qq.com/s/schQHpNXk1PgFoQ1myac8Q)|
 |Large Language Models for Time Series: A Survey|[arxiv](https://arxiv.org/abs/2402.01801)|[github](https://github.com/xiyuanzh/awesome-llm-time-series)|[链接](https://mp.weixin.qq.com/s/xXgez0eCmlHC3KuD1BynCw)|
 |MM-LLMs: Recent Advances in MultiModal Large Language Models|[arxiv](https://arxiv.org/abs/2401.13601)|[github](https://mm-llms.github.io)|[链接](https://mp.weixin.qq.com/s/eC5qSI7QCIJoLOscpNB5fQ)|
 |Continual Learning for Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2402.01364)|--|[链接](https://mp.weixin.qq.com/s/aTriLi-h-rfC6hTRoj7SwA)|
