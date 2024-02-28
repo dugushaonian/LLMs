@@ -25,6 +25,7 @@ LLM papers
 |MM-LLMs: Recent Advances in MultiModal Large Language Models|[arxiv](https://arxiv.org/abs/2401.13601)|[github](https://mm-llms.github.io)|[链接](https://mp.weixin.qq.com/s/eC5qSI7QCIJoLOscpNB5fQ)|
 |Continual Learning for Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2402.01364)|--|[链接](https://mp.weixin.qq.com/s/aTriLi-h-rfC6hTRoj7SwA)|
 |Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond|[arxiv](https://arxiv.org/abs/2304.13712)|--|--|
+|Vision-Language Navigation with Embodied Intelligence: A Survey|[arxiv](https://arxiv.org/abs/2402.14304)|--|--|
 
 ## 最新论文
 
@@ -95,6 +96,8 @@ LLM papers
 |Awesome-AGI|[github](https://github.com/ArronAI007/Awesome-AGI)|
 |awesome-llm-time-series|[github](https://github.com/xiyuanzh/awesome-llm-time-series)|
 |awesome-generative-ai-guide|[github](https://github.com/aishwaryanr/awesome-generative-ai-guide)|
+|LLMsNineStoryDemonTower|[github](https://github.com/km1994/LLMsNineStoryDemonTower)|
+|LLMs_interview_notes|[github](https://github.com/km1994/LLMs_interview_notes)|
 
 ## 博客文章
 
