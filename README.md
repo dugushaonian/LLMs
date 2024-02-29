@@ -26,6 +26,7 @@ LLM papers
 |Continual Learning for Large Language Models: A Survey|[arxiv](https://arxiv.org/abs/2402.01364)|--|[链接](https://mp.weixin.qq.com/s/aTriLi-h-rfC6hTRoj7SwA)|
 |Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond|[arxiv](https://arxiv.org/abs/2304.13712)|--|--|
 |Vision-Language Navigation with Embodied Intelligence: A Survey|[arxiv](https://arxiv.org/abs/2402.14304)|--|--|
+|Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models|[arxiv](https://arxiv.org/abs/2402.17177)|[github](https://github.com/lichao-sun/SoraReview?tab=readme-ov-file)|[链接](https://mp.weixin.qq.com/s/MmMxZGnsm-Vv7OfA6OPBbA)|
 
 ## 最新论文
 
