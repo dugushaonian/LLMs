@@ -100,6 +100,7 @@ LLM papers
 |awesome-generative-ai-guide|[github](https://github.com/aishwaryanr/awesome-generative-ai-guide)|
 |LLMsNineStoryDemonTower|[github](https://github.com/km1994/LLMsNineStoryDemonTower)|
 |LLMs_interview_notes|[github](https://github.com/km1994/LLMs_interview_notes)|
+|LLM4Graph|[github](https://github.com/SitaoLuan/LLM4Graph)|
 
 ## 博客文章
 
