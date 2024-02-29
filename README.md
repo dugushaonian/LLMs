@@ -101,6 +101,7 @@ LLM papers
 |LLMsNineStoryDemonTower|[github](https://github.com/km1994/LLMsNineStoryDemonTower)|
 |LLMs_interview_notes|[github](https://github.com/km1994/LLMs_interview_notes)|
 |LLM4Graph|[github](https://github.com/SitaoLuan/LLM4Graph)|
+|GFMPapers|[github](https://github.com/BUPT-GAMMA/GFMPapers)|
 
 ## 博客文章
 
