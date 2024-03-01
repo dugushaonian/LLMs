@@ -28,6 +28,8 @@ LLM papers
 |Vision-Language Navigation with Embodied Intelligence: A Survey|[arxiv](https://arxiv.org/abs/2402.14304)|--|--|
 |Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models|[arxiv](https://arxiv.org/abs/2402.17177)|[github](https://github.com/lichao-sun/SoraReview?tab=readme-ov-file)|[链接](https://mp.weixin.qq.com/s/MmMxZGnsm-Vv7OfA6OPBbA)|
 |Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques|[arxiv](https://arxiv.org/abs/2402.05952)|--|--|
+|How Can Recommender Systems Benefit from Large Language Models: A Survey|--|--|--|
+|A Survey on Large Language Models for Recommendation|--|--|--|
 
 ## 最新论文
 
@@ -102,6 +104,7 @@ LLM papers
 |LLMs_interview_notes|[github](https://github.com/km1994/LLMs_interview_notes)|
 |LLM4Graph|[github](https://github.com/SitaoLuan/LLM4Graph)|
 |GFMPapers|[github](https://github.com/BUPT-GAMMA/GFMPapers)|
+|so-large-lm|[github](https://github.com/datawhalechina/so-large-lm)|
 
 ## 博客文章
 
@@ -109,4 +112,4 @@ LLM papers
 |--|--|
 |大语言模型的前世今生|[链接](https://bbs.huaweicloud.com/blogs/416109?utm_source=zhihu&utm_medium=bbs-ex&utm_campaign=other&utm_content=content)|
 |万字长文聊聊LLM Agents的现状，问题与未来|[链接](https://mp.weixin.qq.com/s/BiW86exdIr7yuy7cdaFbPQ)|
-
+|奥创纪元：当推荐系统遇到大模型LLM|[链接](https://mp.weixin.qq.com/s/AS_IN5gsvF0NVun4a6DQiA)|
