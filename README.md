@@ -105,6 +105,7 @@ LLM papers
 |LLM4Graph|[github](https://github.com/SitaoLuan/LLM4Graph)|
 |GFMPapers|[github](https://github.com/BUPT-GAMMA/GFMPapers)|
 |so-large-lm|[github](https://github.com/datawhalechina/so-large-lm)|
+|SoraReview|[github](https://github.com/lichao-sun/SoraReview)|
 
 ## 博客文章
 
